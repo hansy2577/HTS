@@ -1,6 +1,6 @@
-# HTS-apha 
-2D <strong>H</strong> engine
-<strong>T</strong>ransport
+# TSG-apha 
+2D <strong>T</strong>ransport
+<strong>G</strong>ame
 <strong>S</strong>imulations
 
 # description 
